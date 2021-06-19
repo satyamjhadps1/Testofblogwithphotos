@@ -1,0 +1,27 @@
+body{
+    background-color: #f0e8c5;
+    text-align: center;
+}
+.heading{
+    font-family: 'Mate SC', serif;
+}
+#today{
+    cursor: pointer;
+    font-family: 'Mate SC', serif;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
